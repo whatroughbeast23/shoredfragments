@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    margin: 0 5px;
+    padding: 5px 10px;
+}
+
+#poem {
+    max-width: 800px;
+    margin: auto;
+}
+
+.poem-line {
+    margin-bottom: 15px;
+}
+
+.line-text {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.attribution {
+    font-size: 0.9em;
+    font-style: italic;
+    color: #555;
+}
